@@ -18,7 +18,7 @@
   
   <build>
     <sourceDirectory>src</sourceDirectory>
-    <testSourceDirectory>in.chronon.test</testSourceDirectory>
+    <testSourceDirectory>in.chronon.app.test</testSourceDirectory>
     <plugins>
       		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
